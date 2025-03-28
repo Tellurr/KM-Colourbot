@@ -1,0 +1,4 @@
+pip install sv-ttk
+pip3 install opencv-python
+pip install pywin32
+pip install dxcam
